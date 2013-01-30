@@ -1,1 +1,1 @@
-To run calculator go to /
+To run calculator go to Debug folder
